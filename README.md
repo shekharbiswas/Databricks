@@ -16,3 +16,7 @@ It combines the power of data lake + analytical power + controls of a data wareh
 - The Data engineering perpective on Databricks:
 
 ![image](https://github.com/shekharbiswas/Databricks/assets/32758439/bdd2dd47-81a7-46ce-a572-15a8c1d53951)
+
+- The Data streaming architecture:
+  
+![image](https://github.com/shekharbiswas/Databricks/assets/32758439/82a4e9d7-4fe0-40bf-97c0-7be95c940085)
