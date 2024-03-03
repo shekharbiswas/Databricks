@@ -1,6 +1,6 @@
 # Data Lakehouse 
 
-It is a great alternative to Lakehouse.
+It is a combines the power of data lake + analytical power + controls of a data warehouse.
 
 ![image](https://github.com/shekharbiswas/Databricks/assets/32758439/64068f1b-9ab5-4917-9232-fcdf6221166e)
 
