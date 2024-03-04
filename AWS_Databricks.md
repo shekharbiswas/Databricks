@@ -11,3 +11,10 @@
 
 ![image](https://github.com/shekharbiswas/Databricks/assets/32758439/9ed189bf-dc8e-4cb0-8112-3dea0ee318e5)
 
+- Exploring SQL editor
+
+  1. Catalog
+  2. Schema
+  3. Table
+
+  ![image](https://github.com/shekharbiswas/Databricks/assets/32758439/03906340-c50f-4250-af22-d658abfb9cb5)
