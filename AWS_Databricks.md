@@ -18,3 +18,17 @@
   3. Table
 
   ![image](https://github.com/shekharbiswas/Databricks/assets/32758439/03906340-c50f-4250-af22-d658abfb9cb5)
+
+- While you create a notebbok on databricks, you can also choose the computation power
+  1. i3.xlarge - computing instance
+  2. Runtime - Spark 3.5.0
+ 
+    
+
+- Have a termination timer set to avoid extra bills.
+  
+  ![image](https://github.com/shekharbiswas/Databricks/assets/32758439/a6e1e806-d9f3-4b89-bbfc-bf5c28554cdf)
+
+- Option is there to put secrets and variables ( if needed , for ex- OpenAI API key etc. )
+
+  ![image](https://github.com/shekharbiswas/Databricks/assets/32758439/68902350-60c0-42ac-86b3-950cc4c663e8)
